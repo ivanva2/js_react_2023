@@ -12,6 +12,8 @@ https://chakra-ui.com/docs/components
 
 https://mui.com/
 
+Справочник по CSS - http://htmlbook.ru/css
+
 Выполненное задание загрузить на гитхаб, после поделиться ссылкой на репозиторий
 
 **Задача со звездочкой 1**
